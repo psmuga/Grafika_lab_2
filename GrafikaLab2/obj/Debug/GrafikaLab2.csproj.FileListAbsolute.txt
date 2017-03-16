@@ -1,0 +1,9 @@
+d:\dokumenty\visual studio 2015\Projects\GrafikaLab2\GrafikaLab2\bin\Debug\GrafikaLab2.exe.config
+d:\dokumenty\visual studio 2015\Projects\GrafikaLab2\GrafikaLab2\bin\Debug\GrafikaLab2.exe
+d:\dokumenty\visual studio 2015\Projects\GrafikaLab2\GrafikaLab2\bin\Debug\GrafikaLab2.pdb
+d:\dokumenty\visual studio 2015\Projects\GrafikaLab2\GrafikaLab2\obj\Debug\GrafikaLab2.csprojResolveAssemblyReference.cache
+d:\dokumenty\visual studio 2015\Projects\GrafikaLab2\GrafikaLab2\obj\Debug\GrafikaLab2.Form1.resources
+d:\dokumenty\visual studio 2015\Projects\GrafikaLab2\GrafikaLab2\obj\Debug\GrafikaLab2.Properties.Resources.resources
+d:\dokumenty\visual studio 2015\Projects\GrafikaLab2\GrafikaLab2\obj\Debug\GrafikaLab2.csproj.GenerateResource.Cache
+d:\dokumenty\visual studio 2015\Projects\GrafikaLab2\GrafikaLab2\obj\Debug\GrafikaLab2.exe
+d:\dokumenty\visual studio 2015\Projects\GrafikaLab2\GrafikaLab2\obj\Debug\GrafikaLab2.pdb
